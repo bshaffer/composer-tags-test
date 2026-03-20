@@ -2,6 +2,6 @@
     "name": "bshaffer/tags-testing",
     "description": "Just a test package here, please ignore",
     "require": {
-        "google/gax": "^1.42"
+        "google/gax": "^1.50"
     }
 }
